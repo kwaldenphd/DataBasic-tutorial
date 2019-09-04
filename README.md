@@ -85,9 +85,9 @@ You can also click on the arrow icon next to the page title to get a link to you
 
 #### Reflection Questions
 
-What do you notice about the lyrics in the Barrio Fino album through the results displayed in WordCounter?
-How does WordCounter’s results shape your understanding of the lyrics?
-What additional questions do you have about the lyrics? 
+- What do you notice about the lyrics in the Barrio Fino album through the results displayed in WordCounter?
+- How does WordCounter’s results shape your understanding of the lyrics?
+- What additional questions do you have about the lyrics? 
 
 ### SameDiff
 
@@ -111,7 +111,7 @@ Select the barrio_fino_lyrics.txt file and the que_vas_a_ser_sin_mi_lyrics.txt f
 
 Click the Compare icon. 
 
-<p align="center"><img class=" size-full wp-image-53 aligncenter" src="hhttps://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_11.PNG?raw=true" alt="Capture" /></p>
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_11.PNG?raw=true" alt="Capture" /></p>
 
 The SameDiff report page summarizes the relative similarity of the documents you are comparing and provides a cosine similarity score.
 
@@ -123,13 +123,13 @@ The three columns show what terms the two documents have in common, as well as w
 
 You can click on the circle arrow icon to download a CSV file with your SameDiff results. The square arrow icon will give you a link to share your results (which will be saved for 60 days).
 
-<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_12.png?raw=true" alt="Capture" /></p>
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_12.PNG?raw=true" alt="Capture" /></p>
 
 #### Reflection Questions
 
-What do you notice about the lyrics in the specific song lyrics and the entire Barrio Fino album through the results displayed in SameDiff?
-How do the SameDiff results shape your understanding of the song and album lyrics?
-What additional questions do you have about the lyrics? 
+- What do you notice about the lyrics in the specific song lyrics and the entire Barrio Fino album through the results displayed in SameDiff?
+- How do the SameDiff results shape your understanding of the song and album lyrics?
+- What additional questions do you have about the lyrics? 
 
 ### ConnectTheDots
 
@@ -137,7 +137,7 @@ What additional questions do you have about the lyrics?
 
 Navigate back to the [DataBasic home page.](https://databasic.io)
 
-<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_13.PNG?raw=true" alt="Capture" /></p>
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_13.png?raw=true" alt="Capture" /></p>
 
 Click on the ConnectTheDots icon to open the ConnectTheDots tool.
 
@@ -156,7 +156,7 @@ In this tutorial, we will be using a list of nodes and edges of the artists feat
 [NEED TO ADD THIS FILE TO THE REPO]
 [INCLUDE TABLE WITH SAMPLE DATA]
 
-<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_14.pngraw=true" alt="Capture" /></p>
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_14.png?raw=true" alt="Capture" /></p>
 
 ConnecTheDots gives you the option to use sample network data, paste your own data, or upload a file.
 
@@ -174,7 +174,7 @@ The table on the right-hand side of the page includes a list of nodes in your ne
 
 Clicking the square arrow icon at the top of the page gives you a link to your results (good for 60 days).
 
-<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_15b.jpg?raw=true" alt="Capture" /></p>
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_15b.png?raw=true" alt="Capture" /></p>
 
 Clicking the Download button by the network graph gives you the option to download the graph as an image file (PNG or SVG) or a network graph file to use in a network analysis software program (GEXF). You can also download the table of nodes with degree and centrality metrics as a CSV file.
 
@@ -182,7 +182,7 @@ Clicking the Download button by the network graph gives you the option to downlo
 
 #### Reflection Questions
 
-What do you notice about Daddy Yankee’s collaboration practices in the Barrio Fino album through the results displayed in ConnectTheDotes?
-How does ConnectTheDots’s results shape your understanding of the album’s content?
-What additional questions do you have about the album?
+- What do you notice about Daddy Yankee’s collaboration practices in the Barrio Fino album through the results displayed in ConnectTheDotes?
+- How does ConnectTheDots’s results shape your understanding of the album’s content?
+- What additional questions do you have about the album?
 
