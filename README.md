@@ -26,6 +26,9 @@ Navigate to https://databasic.io/ in a web browser (preferably Chrome).
 
 <p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_2.PNG?raw=true" alt="Capture" /></p>
 
+&nbsp;
+&nbsp;
+
 The default site language is in English. The site is also available in Spanish and Portuguese. 
 
 <p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_3.jpg?raw=true" alt="Capture" /></p>
@@ -70,13 +73,13 @@ The tables below the word cloud on the results page include a list of words that
 
 You can click on the arrow icon next to any of the table titles to download a CSV (comma-separate value) file with the data contained in that table. This file can be opened in a spreadsheet program like Microsoft Excel.
 
-<block quote> What is a CSV? 
+<blockquote> What is a CSV? 
 
-A comma-separated value file (CSV) is a structured tabular data format in which column values are separated by a comma. Computer programs like Microsoft Excel parse those values and display the underlying data in a spreadsheet format. Saving tabular data as a CSV file type avoids much of the additional formatting added by programs like Microsoft Excel. </block>
-
-<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_8b.jpg?raw=true" alt="Capture" /></p>
+A comma-separated value file (CSV) is a structured tabular data format in which column values are separated by a comma. Computer programs like Microsoft Excel parse those values and display the underlying data in a spreadsheet format. Saving tabular data as a CSV file type avoids much of the additional formatting added by programs like Microsoft Excel. </blockquote>
 
 <p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_8c.jpg?raw=true" alt="Capture" /></p>
+
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_8b.jpg?raw=true" alt="Capture" /></p>
 
 You can also click on the arrow icon next to the page title to get a link to your WordCounter results. Your results are available via that link for 60 days.
 
@@ -92,7 +95,7 @@ What additional questions do you have about the lyrics?
 
 Navigate back to the [DataBasic home page.](https://databasic.io)
 
-<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_10.PNG?raw=true" alt="Capture" /></p>
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_9.PNG?raw=true" alt="Capture" /></p>
 
 Click on the SameDiff icon to open the SameDiff tool.
 
@@ -102,13 +105,13 @@ SameDiff gives you the option to use provided sample texts or upload your own do
 
 In this tutorial, we will be comparing the lyrics from one song with the lyrics from the entire Barrio Fino album.
 
-<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_11.PNG?raw=true" alt="Capture" /></p>
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_10.PNG?raw=true" alt="Capture" /></p>
 
 Select the barrio_fino_lyrics.txt file and the que_vas_a_ser_sin_mi_lyrics.txt files.
 
 Click the Compare icon. 
 
-<p align="center"><img class=" size-full wp-image-53 aligncenter" src="hhttps://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_12.PNG?raw=true" alt="Capture" /></p>
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="hhttps://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_11.PNG?raw=true" alt="Capture" /></p>
 
 The SameDiff report page summarizes the relative similarity of the documents you are comparing and provides a cosine similarity score.
 
@@ -120,7 +123,7 @@ The three columns show what terms the two documents have in common, as well as w
 
 You can click on the circle arrow icon to download a CSV file with your SameDiff results. The square arrow icon will give you a link to share your results (which will be saved for 60 days).
 
-<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_13.png?raw=true" alt="Capture" /></p>
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_12.png?raw=true" alt="Capture" /></p>
 
 #### Reflection Questions
 
@@ -134,17 +137,17 @@ What additional questions do you have about the lyrics?
 
 Navigate back to the [DataBasic home page.](https://databasic.io)
 
-<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_11.PNG?raw=true" alt="Capture" /></p>
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_13.PNG?raw=true" alt="Capture" /></p>
 
 Click on the ConnectTheDots icon to open the ConnectTheDots tool.
 
 As described on the page, “ConnectTheDots shows you how your data is connected by analyzing it as a network. Analyzing the connections between the "dots" in your data is a fundamentally different approach to understanding it. This tool shows you a network diagram to reveal those links, and gives you a high level report about what your network looks like.”
 
-<block quote>What is a network? 
+<blockquote>What is a network? 
 
 According to Miriam Posner, networks are “a finite set (or sets) of actors and the relations defined on them. It consists of three elements: (1) a set of actors; (2) each actor has a set of individual attributes; and (3) a set of ties that defines at least one relation among actors.” A network graph is “a common way to visually represent social networks, consisting of two dimensions: actors and relations (also called nodes and edges). Nodes are the entities in graph (also called vectors)..[edges] are the relationships between nodes.” 
 
-Learn more via the PDF included in this Repository. </block>
+Learn more via the PDF included in this Repository. </blockquote>
 
 For ConnectTheDots, our network data is formatted as a list of edges, or connections, between a source and target node. 
 
@@ -153,19 +156,19 @@ In this tutorial, we will be using a list of nodes and edges of the artists feat
 [NEED TO ADD THIS FILE TO THE REPO]
 [INCLUDE TABLE WITH SAMPLE DATA]
 
-<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_13.pngraw=true" alt="Capture" /></p>
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_14.pngraw=true" alt="Capture" /></p>
 
 ConnecTheDots gives you the option to use sample network data, paste your own data, or upload a file.
 
 Upload the SPN320_BarrioFino_NetworkData.csv file and click the Graph icon.
 
-<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_14.png?raw=true" alt="Capture" /></p>
+<p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_15.png?raw=true" alt="Capture" /></p>
 
 The top of the ConnecTheDots results page provides an overview of your network. The network graph uses colors to indicate groups of nodes, and the graph caption provides a description of the network graph.
 
 The table on the right-hand side of the page includes a list of nodes in your network, as well as the degree and centrality for each node.
 
-<block quote> Degree refers to the number of connections a node has. Centrality is a calculation of how central a node is within the network.</block> 
+<blockquote> Degree refers to the number of connections a node has. Centrality is a calculation of how central a node is within the network.</blockquote> 
 
 <p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_15a.png?raw=true" alt="Capture" /></p>
 
