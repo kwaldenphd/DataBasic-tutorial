@@ -147,7 +147,7 @@ As described on the page, “ConnectTheDots shows you how your data is connected
 
 According to Miriam Posner, networks are “a finite set (or sets) of actors and the relations defined on them. It consists of three elements: (1) a set of actors; (2) each actor has a set of individual attributes; and (3) a set of ties that defines at least one relation among actors.” A network graph is “a common way to visually represent social networks, consisting of two dimensions: actors and relations (also called nodes and edges). Nodes are the entities in graph (also called vectors)..[edges] are the relationships between nodes.” 
 
-Learn more via the PDF included in this Repository. </blockquote>
+Learn more via the [PDF included in this Repository.](https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/Posner_SocialNetworkAnalysisGlossary.pdf) </blockquote>
 
 For ConnectTheDots, our network data is formatted as a list of edges, or connections, between a source and target node. 
 
