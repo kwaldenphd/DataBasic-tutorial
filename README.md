@@ -151,11 +151,50 @@ Learn more via the [PDF included in this Repository.](https://github.com/kwalden
 
 For ConnectTheDots, our network data is formatted as a list of edges, or connections, between a source and target node. 
 
+<table>
+  <tr>
+    <th>source</th>
+    <th>target</th>
+  </tr>
+  <tr>
+    <td>Daddy Yankee</td>
+    <td>May-Be</td>
+  </tr>
+  <tr>
+    <td>Daddy Yankee</td>
+    <td>May-Be</td>
+  </tr>
+  <tr>
+    <td>Daddy Yankee</td>
+    <td>Glory</td>
+  </tr>
+  <tr>
+    <td>Daddy Yankee</td>
+    <td>Glory</td>
+  </tr>
+  <tr>
+    <td>Daddy Yankee</td>
+    <td>Glory</td>
+  </tr>
+  <tr>
+    <td>Daddy Yankee</td>
+    <td>Glory</td>
+  </tr>
+  <tr>
+    <td>Daddy Yankee</td>
+    <td>Blacka Nice</td>
+  </tr>
+  <tr>
+    <td>Daddy Yankee</td>
+    <td>Blacka Nice</td>
+  </tr>
+  </table>
+
 In this tutorial, we will be using a list of nodes and edges of the artists featured in the Barrio Fino album.
 
-[NEED TO ADD THIS FILE TO THE REPO]
-[INCLUDE TABLE WITH SAMPLE DATA]
+Download the Barrio_Fino_Network_Data.csv file included in this repository. Save the file to your desktop.
 
+  
 <p align="center"><img class=" size-full wp-image-53 aligncenter" src="https://github.com/kwaldenphd/DataBasic-tutorial/blob/master/screenshots/Capture_14.png?raw=true" alt="Capture" /></p>
 
 ConnecTheDots gives you the option to use sample network data, paste your own data, or upload a file.
